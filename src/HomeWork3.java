@@ -157,5 +157,6 @@ while (true) {
         for (double i = 10; i <= 20; i++) {
             System.out.println(Math.pow(i, 2));
         }
+        System.out.println("Добрый день");
     }
 }
